@@ -1,0 +1,50 @@
+{
+  "name": "Jan",
+  "surname": "Kowalski",
+  "age": "25",
+  "gender": "male",
+  "email": "Jan@gm.com",
+  "phone": {
+    "landline": "48 32 56 7856",
+    "mobile": "888 555 222"
+  },
+  "adress": {
+    "street": "Nowa",
+    "number": "45/2",
+    "postcode": "25-654",
+    "city": "Warszawa"
+  },
+  "interests": [
+    "photography",
+    "car",
+    "IT"
+  ],
+  "family": {
+    "spouse": {
+      "name": "Janina",
+      "surname": "Kowalska"
+    },
+    "children": [
+      {
+        "name": "Basia",
+        "surname": "Kowalska",
+        "gender": "female",
+        "age": "12",
+        "interest": [
+          "pets",
+          "dolls"
+        ]
+      },
+      {
+        "name": "Kasia",
+        "surname": "Kowalska",
+        "gender": "female",
+        "age": "11",
+        "interest": [
+          "pets",
+          "dolls"
+        ]
+      }
+    ]
+  }
+}

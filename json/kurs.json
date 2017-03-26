@@ -1,0 +1,184 @@
+{
+   "ExchangeRatesTable": {
+      "Table": "A",
+      "No": "059/A/NBP/2017",
+      "EffectiveDate": "2017-03-24",
+      "Rates": [
+         {
+            "Currency": "bat (Tajlandia)",
+            "Code": "THB",
+            "Mid": "0.1140"
+         },
+         {
+            "Currency": "dolar amerykański",
+            "Code": "USD",
+            "Mid": "3.9481"
+         },
+         {
+            "Currency": "dolar australijski",
+            "Code": "AUD",
+            "Mid": "3.0094"
+         },
+         {
+            "Currency": "dolar Hongkongu",
+            "Code": "HKD",
+            "Mid": "0.5083"
+         },
+         {
+            "Currency": "dolar kanadyjski",
+            "Code": "CAD",
+            "Mid": "2.9563"
+         },
+         {
+            "Currency": "dolar nowozelandzki",
+            "Code": "NZD",
+            "Mid": "2.7694"
+         },
+         {
+            "Currency": "dolar singapurski",
+            "Code": "SGD",
+            "Mid": "2.8216"
+         },
+         {
+            "Currency": "euro",
+            "Code": "EUR",
+            "Mid": "4.2658"
+         },
+         {
+            "Currency": "forint (Węgry)",
+            "Code": "HUF",
+            "Mid": "0.013788"
+         },
+         {
+            "Currency": "frank szwajcarski",
+            "Code": "CHF",
+            "Mid": "3.9839"
+         },
+         {
+            "Currency": "funt szterling",
+            "Code": "GBP",
+            "Mid": "4.9327"
+         },
+         {
+            "Currency": "hrywna (Ukraina)",
+            "Code": "UAH",
+            "Mid": "0.1456"
+         },
+         {
+            "Currency": "jen (Japonia)",
+            "Code": "JPY",
+            "Mid": "0.035529"
+         },
+         {
+            "Currency": "korona czeska",
+            "Code": "CZK",
+            "Mid": "0.1579"
+         },
+         {
+            "Currency": "korona duńska",
+            "Code": "DKK",
+            "Mid": "0.5736"
+         },
+         {
+            "Currency": "korona islandzka",
+            "Code": "ISK",
+            "Mid": "0.035578"
+         },
+         {
+            "Currency": "korona norweska",
+            "Code": "NOK",
+            "Mid": "0.4655"
+         },
+         {
+            "Currency": "korona szwedzka",
+            "Code": "SEK",
+            "Mid": "0.4479"
+         },
+         {
+            "Currency": "kuna (Chorwacja)",
+            "Code": "HRK",
+            "Mid": "0.5749"
+         },
+         {
+            "Currency": "lej rumuński",
+            "Code": "RON",
+            "Mid": "0.9365"
+         },
+         {
+            "Currency": "lew (Bułgaria)",
+            "Code": "BGN",
+            "Mid": "2.1810"
+         },
+         {
+            "Currency": "lira turecka",
+            "Code": "TRY",
+            "Mid": "1.0924"
+         },
+         {
+            "Currency": "nowy izraelski szekel",
+            "Code": "ILS",
+            "Mid": "1.0843"
+         },
+         {
+            "Currency": "peso chilijskie",
+            "Code": "CLP",
+            "Mid": "0.005955"
+         },
+         {
+            "Currency": "peso filipińskie",
+            "Code": "PHP",
+            "Mid": "0.0786"
+         },
+         {
+            "Currency": "peso meksykańskie",
+            "Code": "MXN",
+            "Mid": "0.2087"
+         },
+         {
+            "Currency": "rand (Republika Południowej Afryki)",
+            "Code": "ZAR",
+            "Mid": "0.3167"
+         },
+         {
+            "Currency": "real (Brazylia)",
+            "Code": "BRL",
+            "Mid": "1.2574"
+         },
+         {
+            "Currency": "ringgit (Malezja)",
+            "Code": "MYR",
+            "Mid": "0.8921"
+         },
+         {
+            "Currency": "rubel rosyjski",
+            "Code": "RUB",
+            "Mid": "0.0689"
+         },
+         {
+            "Currency": "rupia indonezyjska",
+            "Code": "IDR",
+            "Mid": "0.00029626"
+         },
+         {
+            "Currency": "rupia indyjska",
+            "Code": "INR",
+            "Mid": "0.060362"
+         },
+         {
+            "Currency": "won południowokoreański",
+            "Code": "KRW",
+            "Mid": "0.003524"
+         },
+         {
+            "Currency": "yuan renminbi (Chiny)",
+            "Code": "CNY",
+            "Mid": "0.5736"
+         },
+         {
+            "Currency": "SDR (MFW)",
+            "Code": "XDR",
+            "Mid": "5.3876"
+         }
+      ]
+   }
+}
